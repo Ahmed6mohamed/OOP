@@ -1,9 +1,8 @@
-<?php include("includes/header.php"); ?>
 
         <div class="row">
 
             <!-- Blog Entries Column -->
-            <div class="col-md-8">
+            <div>
 
     
             
